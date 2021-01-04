@@ -16,7 +16,7 @@ consumerKey = '6FRjLXtphki6NPvl9KUm059Ic'
 consumerSecret = 'hgDUKn13hIOp5Z9992X7FxF6945UaD80HYPcfgVGeifdrdv6Dn'
 accessToken = '489435544-Uq6H604sLJcdB2Sme4o6GdLmw3XvhhjfVA0FURFz'
 accessTokenSecret = 'M6LGZ0e4n2o0HKhnJOhBqRSpkaR2GvThCbNdRTAvKtHKg'
-st.set_option('deprecation.showPyplotGlobalUse', False)
+
 
 
 #Create the authentication object
